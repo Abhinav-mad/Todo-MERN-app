@@ -1,0 +1,15 @@
+.Completed {
+    background-color: green;
+    width: 22%;
+    border-radius: 5px;
+  }
+  
+  .Incomplete {
+    background-color: red;
+    width: 22%;
+    border-radius: 5px;
+  }
+
+
+  
+  
